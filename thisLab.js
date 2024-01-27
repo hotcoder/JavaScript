@@ -12,5 +12,3 @@ const person = {
         console.log(this);
     }
 }
-
-pers
